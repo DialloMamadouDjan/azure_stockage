@@ -1,0 +1,40 @@
+13/03/2021 11:22:11 INFO - main fonction
+13/03/2021 11:22:11 DEBUG - connecting to the stockage account
+13/03/2021 11:22:11 DEBUG - connecting to the container
+13/03/2021 11:22:11 DEBUG - arg download . executing download fonction
+13/03/2021 11:22:11 WARNING - Downloading file
+13/03/2021 11:22:11 INFO - opening azuretest.txt to be downloaded from azfile container
+13/03/2021 11:22:11 WARNING - downloading file from the container
+13/03/2021 11:22:11 INFO - Request URL: 'https://djan.blob.core.windows.net/azfiles/azuretest.txt'
+13/03/2021 11:22:11 INFO - Request method: 'GET'
+13/03/2021 11:22:11 INFO - Request headers:
+13/03/2021 11:22:11 INFO -     'x-ms-range': 'REDACTED'
+13/03/2021 11:22:11 INFO -     'x-ms-encryption-algorithm': 'REDACTED'
+13/03/2021 11:22:11 INFO -     'x-ms-version': 'REDACTED'
+13/03/2021 11:22:11 INFO -     'Accept': 'application/xml'
+13/03/2021 11:22:11 INFO -     'User-Agent': 'azsdk-python-storage-blob/12.8.0 Python/3.6.0 (Windows-10-10.0.19041-SP0)'
+13/03/2021 11:22:11 INFO -     'x-ms-date': 'REDACTED'
+13/03/2021 11:22:11 INFO -     'x-ms-client-request-id': 'f9203c38-83e5-11eb-8f1e-e4b318499723'
+13/03/2021 11:22:11 INFO -     'Authorization': 'REDACTED'
+13/03/2021 11:22:11 INFO - No body was attached to the request
+13/03/2021 11:22:11 DEBUG - Starting new HTTPS connection (1): djan.blob.core.windows.net:443
+13/03/2021 11:22:13 DEBUG - https://djan.blob.core.windows.net:443 "GET /azfiles/azuretest.txt HTTP/1.1" 206 52
+13/03/2021 11:22:13 INFO - Response status: 206
+13/03/2021 11:22:13 INFO - Response headers:
+13/03/2021 11:22:13 INFO -     'Content-Length': '52'
+13/03/2021 11:22:13 INFO -     'Content-Type': 'application/octet-stream'
+13/03/2021 11:22:13 INFO -     'Content-Range': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'Last-Modified': 'Thu, 11 Mar 2021 15:27:18 GMT'
+13/03/2021 11:22:13 INFO -     'Accept-Ranges': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'ETag': '"0x8D8E4A22813BD49"'
+13/03/2021 11:22:13 INFO -     'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+13/03/2021 11:22:13 INFO -     'x-ms-request-id': 'f40cc4a9-101e-0045-6ff2-17453f000000'
+13/03/2021 11:22:13 INFO -     'x-ms-client-request-id': 'f9203c38-83e5-11eb-8f1e-e4b318499723'
+13/03/2021 11:22:13 INFO -     'x-ms-version': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-creation-time': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-blob-content-md5': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-lease-status': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-lease-state': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-blob-type': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'x-ms-server-encrypted': 'REDACTED'
+13/03/2021 11:22:13 INFO -     'Date': 'Sat, 13 Mar 2021 10:22:12 GMT'

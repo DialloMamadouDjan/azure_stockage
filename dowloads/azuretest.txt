@@ -1,1 +1,0 @@
-Hell o this a first test of my azure app deployement

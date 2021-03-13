@@ -7,3 +7,21 @@
 13/03/2021 11:22:11 WARNING - downloading file from the container
 13/03/2021 11:22:11 INFO - Request URL: 'https://djan.blob.core.windows.net/azfiles/azuretest.txt'
 13/03/2021 11:22:13 INFO -     'Date': 'Sat, 13 Mar 2021 10:22:12 GMT'
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.fenced_code".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.tables".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.admonition".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.admonition.AdmonitionExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.smarty".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.smarty.SmartyExtension".
+13/03/2021 19:40:32 DEBUG - Successfully imported extension module "markdown.extensions.toc".
+13/03/2021 19:40:32 DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".

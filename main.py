@@ -27,7 +27,7 @@ def upload(cible, blobclient):
     with open(cible, "rb") as f:
         logging.warning('Uploding file to the container')
         blobclient.upload_blob(f)
-        
+   
 
 
 def download(filename, dl_folder, blobclient):
